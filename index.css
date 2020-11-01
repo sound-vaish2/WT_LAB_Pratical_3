@@ -1,0 +1,18 @@
+body{
+  background-image: linear-gradient(#b4d9d7, #6edbd5, #5e9ecc);
+}
+#Menu{
+    padding-top: 100px;
+    
+}
+.MenuContainer{
+    padding: 100px;
+    background-color: lavender;
+    
+}
+footer{
+    padding-top: 500px;
+    font-size: 20px;
+    text-align: center;
+    background-color: cadetblue;
+}
